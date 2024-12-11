@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EA6Soap.props" />
+</Project>

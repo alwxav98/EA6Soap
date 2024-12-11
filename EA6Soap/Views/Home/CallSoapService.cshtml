@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Call SOAP Service";
+}
+
+<h2>Respuesta del Servicio SOAP</h2>
+
+@if (ViewBag.Response != null)
+{
+    <pre>@ViewBag.Response</pre>
+}
+else
+{
+    <p>No se recibió ninguna respuesta del servicio SOAP.</p>
+}

@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|c:\\users\\tanya\\onedrive\\escritorio\\uce\\octavo\\distribuida\\estilos de arquitectura\\ea6soap\\ea6soap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|solutionrelative:ea6soap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|c:\\users\\tanya\\onedrive\\escritorio\\uce\\octavo\\distribuida\\estilos de arquitectura\\ea6soap\\ea6soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|solutionrelative:ea6soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|c:\\users\\tanya\\onedrive\\escritorio\\uce\\octavo\\distribuida\\estilos de arquitectura\\ea6soap\\ea6soap\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|solutionrelative:ea6soap\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|c:\\users\\tanya\\onedrive\\escritorio\\uce\\octavo\\distribuida\\estilos de arquitectura\\ea6soap\\ea6soap\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|solutionrelative:ea6soap\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|c:\\users\\tanya\\onedrive\\escritorio\\uce\\octavo\\distribuida\\estilos de arquitectura\\ea6soap\\ea6soap\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|solutionrelative:ea6soap\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|c:\\users\\tanya\\onedrive\\escritorio\\uce\\octavo\\distribuida\\estilos de arquitectura\\ea6soap\\ea6soap\\views\\home\\callsoapservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|solutionrelative:ea6soap\\views\\home\\callsoapservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|c:\\users\\tanya\\onedrive\\escritorio\\uce\\octavo\\distribuida\\estilos de arquitectura\\ea6soap\\ea6soap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|solutionrelative:ea6soap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|c:\\users\\tanya\\onedrive\\escritorio\\uce\\octavo\\distribuida\\estilos de arquitectura\\ea6soap\\ea6soap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|solutionrelative:ea6soap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|c:\\users\\tanya\\onedrive\\escritorio\\uce\\octavo\\distribuida\\estilos de arquitectura\\ea6soap\\ea6soap\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7BAE36E6-DB95-44CE-95D5-D23E299787C1}|EA6Soap\\EA6Soap.csproj|solutionrelative:ea6soap\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Dockerfile",
+              "RelativeDocumentMoniker": "EA6Soap\\Dockerfile",
+              "ToolTip": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Dockerfile",
+              "RelativeToolTip": "EA6Soap\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T20:06:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CallSoapService.cshtml",
+              "DocumentMoniker": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Views\\Home\\CallSoapService.cshtml",
+              "RelativeDocumentMoniker": "EA6Soap\\Views\\Home\\CallSoapService.cshtml",
+              "ToolTip": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Views\\Home\\CallSoapService.cshtml",
+              "RelativeToolTip": "EA6Soap\\Views\\Home\\CallSoapService.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T19:47:23.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EA6Soap\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EA6Soap\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:02:45.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Program.cs",
+              "RelativeDocumentMoniker": "EA6Soap\\Program.cs",
+              "ToolTip": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Program.cs",
+              "RelativeToolTip": "EA6Soap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:23:19.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EA6Soap\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EA6Soap\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T03:20:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "EA6Soap\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Services\\StudentService.cs",
+              "RelativeToolTip": "EA6Soap\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:07:48.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "EA6Soap\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Services\\IStudentService.cs",
+              "RelativeToolTip": "EA6Soap\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:03:25.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EA6Soap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EA6Soap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T03:19:38.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EA6Soap\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\tanya\\OneDrive\\Escritorio\\UCE\\Octavo\\Distribuida\\Estilos de Arquitectura\\EA6Soap\\EA6Soap\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EA6Soap\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T03:20:30.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

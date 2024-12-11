@@ -1,0 +1,35 @@
+tml {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: #BEE4D7;
+    margin-bottom: 60px;
+}
+
+.text-center h2, .text-center h3 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.imagen-central {
+    max-width: 150px;
+    height: auto;
+    margin-top: 10px;
+}
