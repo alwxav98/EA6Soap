@@ -63,3 +63,21 @@ To test the SOAP service externally, you can use SoapUI:
        </soapenv:Body>
      </soapenv:Envelope>
   ```
+   
+   - Click the Submit Request button (green play icon).
+
+4. View the Response:
+
+The server's SOAP response will appear in the right-hand panel.
+Example response:
+
+  ```bash
+     <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">
+        <soapenv:Header/>
+        <soapenv:Body>
+          <tem:GetStudentInfo>
+            <tem:name>Alexandra</tem:name>
+          </tem:GetStudentInfo>
+        </soapenv:Body>
+     </soapenv:Envelope>
+  ```
